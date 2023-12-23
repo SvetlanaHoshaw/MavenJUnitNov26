@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b86cc0aa-4cab-4a3e-916d-d00e8fe56d59" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/LocateById.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/services/BankingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/Claim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/models/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/services/BankingServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BackgroundSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DataTableSteps18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DataTableTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DataTablesDemoSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/ScenarioOutlineSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/TagsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/steps/TransferSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Account.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Background.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DataTable18_1_1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DataTableDemo.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/FirstCucumberDemo.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/HowToRunSenarios.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Outlines.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Tag.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/html/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/html/demo1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2YjQn7HRXfTx7g0cq1mZHw8ZTwJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/svitlanahoshaw/Documents/Wedevx/MavenJUnitNov26/src/test/resources/features&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/sezim/Desktop/MavenJUnit/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/test" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/html" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Alerts">
+    <configuration name="Alerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.Alerts" />
+      <module name="MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iframes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.Iframes" />
+      <module name="MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaScriptExecutorPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.JavaScriptExecutorPractice" />
+      <module name="MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KeyboardActions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.KeyboardActions" />
+      <module name="MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="justforpractice.WindowHandle" />
+      <module name="MavenJUnit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="justforpractice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Alerts" />
+        <item itemvalue="Application.Iframes" />
+        <item itemvalue="Application.WindowHandle" />
+        <item itemvalue="Application.JavaScriptExecutorPractice" />
+        <item itemvalue="Application.KeyboardActions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86cc0aa-4cab-4a3e-916d-d00e8fe56d59" name="Changes" comment="" />
+      <created>1701033982796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701033982796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/justforpractice/SelectClass.java</url>
+          <line>13</line>
+          <properties class="justforpractice.SelectClass" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/justforpractice/JavaScriptExecutorPractice.java</url>
+          <line>12</line>
+          <properties class="justforpractice.JavaScriptExecutorPractice" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
