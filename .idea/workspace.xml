@@ -5,43 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b86cc0aa-4cab-4a3e-916d-d00e8fe56d59" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/justforpractice/LocateById.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/models/Transaction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/services/BankingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/BankAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/Claim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/models/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/RegressionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/SmokeRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/services/BankingServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/BackgroundSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DataTableSteps18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DataTableTransformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/DataTablesDemoSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/ScenarioOutlineSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/TagsSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/steps/TransferSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Account.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Background.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DataTable18_1_1.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/DataTableDemo.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/FirstCucumberDemo.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/HowToRunSenarios.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Outlines.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Tag.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/html/Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/html/demo1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/junit-platform.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Week18/Week18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Week18/Week18.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +21,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -69,19 +55,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/svitlanahoshaw/Documents/Wedevx/MavenJUnitNov26/src/test/resources/features&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/sezim/Desktop/MavenJUnit/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/svetl/IdeaProjects/MavenJUnitNov26",
+    "onboarding.tips.debug.path": "/home/sezim/Desktop/MavenJUnit/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/resources/features" />
@@ -162,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Alerts" />
-        <item itemvalue="Application.Iframes" />
         <item itemvalue="Application.WindowHandle" />
-        <item itemvalue="Application.JavaScriptExecutorPractice" />
         <item itemvalue="Application.KeyboardActions" />
+        <item itemvalue="Application.JavaScriptExecutorPractice" />
+        <item itemvalue="Application.Iframes" />
+        <item itemvalue="Application.Alerts" />
       </list>
     </recent_temporary>
   </component>
@@ -181,6 +167,23 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -192,7 +195,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/justforpractice/SelectClass.java</url>
           <line>13</line>
-          <properties class="justforpractice.SelectClass" method="main">
+          <properties class="justforpractice.SelectClass">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
@@ -201,7 +204,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/justforpractice/JavaScriptExecutorPractice.java</url>
           <line>12</line>
-          <properties class="justforpractice.JavaScriptExecutorPractice" method="main">
+          <properties class="justforpractice.JavaScriptExecutorPractice">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
